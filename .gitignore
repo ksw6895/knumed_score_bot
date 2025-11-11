@@ -1,0 +1,4 @@
+.env
+last_grade.txt
+__pycache__/
+.vscode/
